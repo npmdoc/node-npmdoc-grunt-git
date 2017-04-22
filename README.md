@@ -1,4 +1,7 @@
-# api documentation for  [grunt-git (v1.0.3)](https://github.com/rubenv/grunt-git)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-git.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-git.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-git)
+# npmdoc-grunt-git
+
+#### api documentation for  [grunt-git (v1.0.3)](https://github.com/rubenv/grunt-git)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-git.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-git.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-git)
+
 #### Git commands for grunt.
 
 [![NPM](https://nodei.co/npm/grunt-git.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-git)
@@ -75,7 +78,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 
